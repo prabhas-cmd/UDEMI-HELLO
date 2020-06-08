@@ -1,1 +1,3 @@
-# UDEMI-HELLO
+# maven-project
+
+Simple Maven Project
